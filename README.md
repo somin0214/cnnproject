@@ -12,6 +12,7 @@
 Method : 웹과 딥러닝
 
 output :
+
 ![output](https://github.com/somin0214/cnnproject/assets/151808855/b1407b07-9f66-47b9-8ff0-772f2eea23b7)
 
 전체 설계도 :
