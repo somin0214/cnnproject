@@ -10,7 +10,8 @@
 역할 : CNN 모델 개선, 데이터 정제 및 전처리, 발표, 팀장
 
 Method : 웹과 딥러닝
-output : ![output](https://github.com/somin0214/cnnproject/assets/151808855/b1407b07-9f66-47b9-8ff0-772f2eea23b7)
+output :
+![output](https://github.com/somin0214/cnnproject/assets/151808855/b1407b07-9f66-47b9-8ff0-772f2eea23b7)
 
 전체 설계도 :
 ![architecture](https://github.com/somin0214/cnnproject/assets/151808855/046f6667-b8c9-47cf-8925-749ec7332e1a)
