@@ -12,13 +12,14 @@
 6. Method : 웹과 딥러닝
 
 7. output :
-![output](https://github.com/somin0214/cnnproject/assets/151808855/e8355c5e-2267-4976-b277-eba0d34365fb)
+
+![output](https://github.com/somin0214/cnnproject/assets/151808855/70c1403a-0273-4850-8337-dda42b0e37b6)
 
 
-8. 전체 설계도 :
+9. 전체 설계도 :
 ![architecture](https://github.com/somin0214/cnnproject/assets/151808855/5cf649b4-183c-46ba-8795-071686df0643)
 
 
-9. 참고 논문: Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25 (2012)
+10. 참고 논문: Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25 (2012)
 
-10. 느낀 점 : CNN으로는 0~9 이미지의 학습 성능이 잘 나왔지만 transform을 어떻게 주냐에 따라서 성능을 감소시키는 기법들이 뭐인지 리포트하고 싶었다.
+11. 느낀 점 : CNN으로는 0~9 이미지의 학습 성능이 잘 나왔지만 transform을 어떻게 주냐에 따라서 성능을 감소시키는 기법들이 뭐인지 리포트하고 싶었다.
