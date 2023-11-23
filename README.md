@@ -17,6 +17,7 @@
 
 
 9. 전체 설계도 :
+
 ![architecture](https://github.com/somin0214/cnnproject/assets/151808855/5cf649b4-183c-46ba-8795-071686df0643)
 
 
